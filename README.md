@@ -56,9 +56,9 @@ Or you can test random audio from the test set and see the attentions:
 $ python inference.py exp/default/best.pth
 
 Predict:
-h# l ae f tcl t ae n tcl s en s iy ng ix f ao r tcl ch ax m s epi l aw z ax pcl p l eh n y axr h#
+h# hh ih l pcl p gcl g r ey tcl d ix pcl p ih kcl k ix pcl p eh kcl k ix v dcl d ix tcl t ey dx ah v z h#
 Ground-truth:
-h# l ae f dcl d ae n tcl t s en s ih ng ih f ao r tcl ch ix n s epi m ay l z ax pcl p aa n y ux h#
+h# hh eh l pcl p gcl g r ey gcl t ix pcl p ih kcl k ix pcl p eh kcl k ix v pcl p ix tcl t ey dx ow z h#
 ```
 ![](./img/Figure_2.png)
 
